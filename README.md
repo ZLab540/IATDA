@@ -10,6 +10,9 @@ Source code for our submission "Illumination Guided Unsupervised Domain Adaptati
 * Python 2.7 or 3.6
 * CUDA 8.0 or higher
 
+### Dataset
+
+* For revised KAIST: https://pan.baidu.com/s/1IVPV4cuK8ZEEEfQM1lQJSw 提取码：9use
 
 ### Our Trained Model
 
