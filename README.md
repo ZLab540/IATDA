@@ -12,7 +12,7 @@ Source code for our submission "Illumination Guided Unsupervised Domain Adaptati
 
 ### Dataset
 
-* For revised KAIST: https://pan.baidu.com/s/1IVPV4cuK8ZEEEfQM1lQJSw 提取码：9use
+* The revised KAIST: https://pan.baidu.com/s/1IVPV4cuK8ZEEEfQM1lQJSw 提取码：9use
 
 ### Our Trained Model
 
